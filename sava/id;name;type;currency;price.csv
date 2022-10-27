@@ -1,0 +1,13 @@
+id;name;type;currency;price
+01;Selection Of Salami;Starter;Eur;5;
+02;Sea Salad;Starter;Eur;7;
+03;Provola and mushrooms;Starter;Eur;7;
+04;Carbonara; Principal Dish;Eur;10;
+05;Pasta with tomato sauce;Principal Dish;Eur;10;
+06;Cacio e Pepe;Principal Dish;Eur;10;
+07;Parmigiana;Principal Dish;Eur;15;
+08;Steak with salad;Principal Dish;Eur;15;
+09;Fish and chips;Principal Dish;Eur;15;
+10;Tiramisu;Desert;Eur;5;
+13;Pastiera;Desert;Eur;5;
+12;Babà;Desert;Eur;5;
